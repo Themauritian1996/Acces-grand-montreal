@@ -1,0 +1,2 @@
+name,category,region,city,address,lat,lng,phone,website,features,desc_fr,desc_en
+Clinique Exemple (Modifiez ou ajoutez vos lignes),soins,montreal,Montréal,"1000, rue Exemple, Montréal, QC",45.5088,-73.5617,514-555-0100,https://exemple.ca,"step_free|auto_door|toilet|parking","Exemple de clinique ajoutée manuellement. Supprimez cette ligne si vous le souhaitez.","Example manually added clinic. You may delete this sample row."
